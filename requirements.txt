@@ -1,0 +1,5 @@
+streamlit
+sseclient-py
+streamlit-autorefresh
+kafka-python
+claspy
